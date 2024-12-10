@@ -1,7 +1,7 @@
 # librazermacos
 
 ### Important Note
-This is not the original repo the original repo is from [1kc/librazermacos](https://github.com/1kc/librazermacos) I forked this repo to maintain it as the original seems to be abandoned.
+This is not the original repo the original repo is from [stickoking/librazermacos](https://github.com/stickoking/razer-macos) and [1kc/librazermacos](https://github.com/1kc/razer-macos) I forked this repo to add support for the Razer BlackWidow V4 X.
 
 C library of openrazer drivers ported to macOS.
 
